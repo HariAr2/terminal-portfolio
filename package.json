@@ -1,12 +1,9 @@
 {
-  "name": "liveterm",
-  "version": "0.1.0",
-  "license": "MIT",
-  "author": {
-    "name": "Vincent Wu",
-    "url": "https://cveinnt.com",
-    "email": "contact@wensenwu.com"
-  },
+  "name": "my-terminal-portfolio",
+  "version": "1.0.0",
+  "description": "Terminal-style personal portfolio (adapted from Cveinnt/LiveTerm)",
+  "author": "Hari Aravindh",
+  "credits": "Original project by Cveinnt/LiveTerm",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
