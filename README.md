@@ -42,7 +42,7 @@ npx husky install
 
 # Run locally
 npm run dev
-
+```
 
 ## 🎨 Credits
 
