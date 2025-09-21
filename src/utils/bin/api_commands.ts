@@ -42,7 +42,7 @@ async function getStockPrice(symbol) {
 
 // Example command usage
 export const stocks = async (args) => {
-  if (args.length === 0) return "Usage: stocks [symbol]";
+  if (args.length === 0) return "Usage: stocks AAPL";
   return await getStockPrice(args[0]);
 };
 
@@ -69,7 +69,7 @@ ${asciichart.plot(prices, { height: 10 })}
 }
 
 export const stockchart = async (args) => {
-  if (args.length === 0) return "Usage: stockchart [symbol]";
+  if (args.length === 0) return "Usage: stockchart AAPL";
   return await getStockHistory(args[0]);
 };
 
