@@ -4,6 +4,10 @@ This is my **terminal-style personal website**, designed to feel like a retro co
 
 ---
 
+## 💻 Live Demo
+
+Check out the live demo of my terminal portfolio website: [https://runwithari.vercel.app](https://runwithari.vercel.app)
+
 ## ⚡ Features
 
 - Terminal-style interface for navigating portfolio  
